@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "1322c1a35d764761",
+    "type": "split",
+    "children": [
+      {
+        "id": "858fc89a78ae5d6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5843cb07b8f317b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20 메커닉/자동화 곡선.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "자동화 곡선"
+            }
+          }
+        ]
+      },
+      {
+        "id": "556662c15924df86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed2223ec7fabf5b4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61f8dc92eef2855d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5501952ab3371ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "551c6a7bdf5fcef8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "3cf437bb125c7e1b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "f649f849467efd58",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4b39de21b89f137f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f62c1e210ed1259",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ed34735cdd9e932",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "20 메커닉/자동화 곡선.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "자동화 곡선 의 백링크"
+            }
+          },
+          {
+            "id": "16ec01369acfc53b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "20 메커닉/자동화 곡선.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "자동화 곡선 의 나가는 링크"
+            }
+          },
+          {
+            "id": "060a9ef70fe2abd4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "d02ceb16ffe0ae3d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "9331570255697f93",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "20 메커닉/자동화 곡선.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "자동화 곡선 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "551c6a7bdf5fcef8",
+  "lastOpenFiles": [
+    "홈.md.tmp.145720.22a543ec84d8",
+    "40 프로젝트 적용/프로젝트 적용 — UWB.md",
+    "40 프로젝트 적용",
+    "90 MOC/메커닉 MOC.md.tmp.147632.500c33800317",
+    "20 메커닉/수요 계층화.md",
+    "10 역기획/Anno 1800.md",
+    "10 역기획/Anno 1800.md.tmp.147632.9ec899146afb",
+    "_템플릿/프로젝트 적용 시트 템플릿.md",
+    "_템플릿/프로젝트 적용 시트 템플릿.md.tmp.144012.6659f7a37348",
+    "90 MOC/설계 손잡이 마스터 시트.md.tmp.144012.61c65a49e347",
+    "90 MOC/설계 손잡이 마스터 시트.md.tmp.144012.fa88cabc8275",
+    "20 메커닉/AI 스토리텔러.md",
+    "20 메커닉/피드백 루프.md",
+    "20 메커닉/청사진·추상화 도구.md",
+    "20 메커닉/캐릭터 서사 창발.md",
+    "20 메커닉/주기적 압박.md",
+    "90 MOC/메커닉 MOC.md.tmp.153952.e013e308f54e",
+    "홈.md.tmp.153952.66227464d929",
+    "90 MOC/설계 손잡이 마스터 시트.md",
+    "90 MOC/설계 손잡이 마스터 시트.md.tmp.153952.bfe1e1cad370",
+    "20 메커닉/자원 변환 체인.md",
+    "20 메커닉/기술 연구 트리.md",
+    "20 메커닉/공간 배치와 물류.md",
+    "30 패턴·인사이트/실패가 콘텐츠가 되는 설계.md",
+    "20 메커닉/도덕적 결단 시스템.md",
+    "20 메커닉/캐릭터 서사 창발.md.tmp.137304.2cf3e3b9dead",
+    "20 메커닉/코어 루프.md",
+    "20 메커닉/진행 곡선.md",
+    "20 메커닉/물리 시뮬레이션.md",
+    "20 메커닉/수직 건설.md",
+    "20 메커닉/로그라이트 메타 진행.md",
+    "20 메커닉/경제 루프.md",
+    "환영합니다!.md",
+    "30 패턴·인사이트/제약이 의미를 만든다.md",
+    "30 패턴·인사이트/적은 인원으로 깊이를 내는 법.md",
+    "30 패턴·인사이트/스케일 확장 자체가 판타지가 된다.md"
+  ]
+}
