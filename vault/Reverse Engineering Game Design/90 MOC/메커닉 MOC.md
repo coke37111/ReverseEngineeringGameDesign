@@ -40,9 +40,20 @@ tags: [MOC]
 
 ## UX·정보설계
 - [[청사진·추상화 도구]]
+- [[온보딩 곡선]]
 
 ## 리텐션·엔드게임
 - [[주기적 압박]]
 - [[캐릭터 서사 창발]]
 - [[도덕적 결단 시스템]]
-- [[로그라이트 �
+- [[로그라이트 메타 진행]]
+
+---
+<!-- Dataview 쿼리:
+```dataview
+TABLE category AS 카테고리, maturity AS 성숙도, length(file.inlinks) AS 참조수
+FROM "20 메커닉"
+WHERE type = "메커닉"
+SORT length(file.inlinks) DESC
+```
+참조수(백링크 수)가 많은 메커닉 = 장르의 뼈대 -->
